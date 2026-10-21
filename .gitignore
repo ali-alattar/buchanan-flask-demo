@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environment-specific files and macOS metadata
+.env.*
+.DS_Store
