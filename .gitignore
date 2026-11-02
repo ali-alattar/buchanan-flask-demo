@@ -222,3 +222,6 @@ __marimo__/
 # Environment-specific files and macOS metadata
 .env.*
 .DS_Store
+
+# Frontend dependencies and local build output (keep package-lock.json tracked)
+node_modules/
